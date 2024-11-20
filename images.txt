@@ -8,3 +8,4 @@
 dannicool/docker-wechatbot-webhook
 mysql
 passwall/passwall-server
+postgres:alpine
