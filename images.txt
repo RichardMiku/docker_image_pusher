@@ -5,9 +5,5 @@
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
 
-dannicool/docker-wechatbot-webhook
-mysql
-passwall/passwall-server
-postgres:alpine
 jlesage/firefox
-hoshinorei/l4d2server
+hoshinorei/l4d2server:edge
