@@ -10,3 +10,4 @@ mysql
 passwall/passwall-server
 postgres:alpine
 jlesage/firefox
+hoshinorei/l4d2server
